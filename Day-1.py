@@ -1,3 +1,4 @@
+# Counting the number of even numbers from 1 to n
 '''def count_even(n):
 
     count=0
@@ -11,6 +12,7 @@ print("Number of even numbers from 1 to",n,"is:",count_even(n))
 
 ###############################################################
 
+# Counting the number of digits in a number
 def count_digits(num):
     count=0
     while num>0:
